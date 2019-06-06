@@ -1,3 +1,3 @@
 # algorithm
 
-For learning algorithm
+- For learning algorithm
