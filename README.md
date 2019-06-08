@@ -1,3 +1,3 @@
-# algorithm
+# Introduction to Algorithms
 
-- For learning algorithm
+- For learning algorithms
